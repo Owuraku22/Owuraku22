@@ -10,12 +10,10 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Africangod1&layout=compact)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Africangod1&show_icons=true)
-
-
-
 
 ### What I Specialize In
 - **Backend Development**: Laravel, PHP,
 - **API Development**: RESTful APIs, GraphQL
 - **Database Management**: MySQL, PostgreSQL
+  
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Africangod1&show_icons=true)
