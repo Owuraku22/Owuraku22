@@ -10,6 +10,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Africangod1&theme=dracula)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Africangod1&layout=compact)
+
+
 
 ### What I Specialize In
 - **Backend Development**: Laravel, PHP, Node.js
