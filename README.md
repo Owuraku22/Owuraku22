@@ -13,6 +13,6 @@
 
 
 ### What I Specialize In
-- **Backend Development**: Laravel, PHP, Node.js
+- **Backend Development**: Laravel, PHP,
 - **API Development**: RESTful APIs, GraphQL
 - **Database Management**: MySQL, PostgreSQL
