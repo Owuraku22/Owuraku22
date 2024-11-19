@@ -10,7 +10,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Africangod1&layout=compact)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aricangod1&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Africangod1&show_icons=true)
 
 
 
