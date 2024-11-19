@@ -8,8 +8,6 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-blue)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red)
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Africangod1&theme=dracula)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Africangod1&layout=compact)
 
 
