@@ -2,7 +2,7 @@
 - 👀 I’m a backend developer
 - 🌱 I’m happy on collaborating on Laravel and Php projects
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me owurakwaku58@gmail.com
+- 📫 How to reach me owurakwaku758@gmail.com
 
 
 <!---
