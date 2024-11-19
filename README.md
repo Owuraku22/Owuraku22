@@ -8,6 +8,9 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-blue)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Africangod1&theme=dracula)
+
+
 ### What I Specialize In
 - **Backend Development**: Laravel, PHP, Node.js
 - **API Development**: RESTful APIs, GraphQL
