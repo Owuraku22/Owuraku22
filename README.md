@@ -7,5 +7,8 @@
 
 ![PHP](https://img.shields.io/badge/Code-PHP-blue)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow)
 
+### What I Specialize In
+- **Backend Development**: Laravel, PHP, Node.js
+- **API Development**: RESTful APIs, GraphQL
+- **Database Management**: MySQL, PostgreSQL
