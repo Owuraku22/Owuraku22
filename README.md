@@ -13,7 +13,7 @@
 
 ### What I Specialize In
 - **Backend Development**: Laravel, PHP,
-- **API Development**: RESTful APIs, GraphQL
-- **Database Management**: MySQL, PostgreSQL
+- **API Development**: RESTful APIs, 
+- **Database Management**: MySQL,
   
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Africangod1&show_icons=true)
