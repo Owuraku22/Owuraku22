@@ -8,7 +8,7 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-blue)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Africangod1&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owuraku22&layout=compact)
 
 
 ### What I Specialize In
@@ -16,4 +16,4 @@
 - **API Development**: RESTful APIs, 
 - **Database Management**: MySQL,
   
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Africangod1&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Owuraku22&show_icons=true)
