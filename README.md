@@ -5,6 +5,9 @@ src="/hand.png" width="50">  Hi, I'm Owura Kwaku Safo
 
  <img src="https://i.pinimg.com/originals/2e/5c/72/2e5c72d2e357c97df0cbd6d63e782989.gif" align="left" width="120" hspace="5" vspace="10">&nbsp;&nbsp;<div align="center">
 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Owuraku22&label=Profile%20views&color=0e75b6&style=flat" alt="jameszokah" /> </p>
+<br />
+
 
 - 👋 Hi, my name is Safo
 - 👀 I’m a fullstack developer
@@ -25,11 +28,11 @@ src="/hand.png" width="50">  Hi, I'm Owura Kwaku Safo
 
 ### What I Specialize In
 
--👨‍💻 **Backend Development**: Laravel, PHP,
+👨‍💻 **Backend Development**: Laravel, PHP,
 
--💽 **Database Management**: MySQL, Postgres, MongoDB
+💽 **Database Management**: MySQL, Postgres, MongoDB
 
--⚙️ **API Development**: RESTful APIs, 
+⚙️ **API Development**: RESTful APIs, 
 
 
 <p align="left">
