@@ -10,6 +10,7 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-blue)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red)
 ![Golang](https://img.shields.io/badge/Code-Golang-blue)
+![Python](https://img.shields.io/badge/Code-Python-blue)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Owuraku22&layout=compact)
 
