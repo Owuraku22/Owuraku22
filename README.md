@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="/hand.png" width="50" alt="Wave"> Hi, I'm Owura Kwaku Safo
+  Hi, I'm Owura Kwaku Safo
 </h2>
 
 <div align="center">
