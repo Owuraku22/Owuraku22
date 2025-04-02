@@ -16,8 +16,8 @@
 
 ### What I Specialize In
 -👨‍💻 **Backend Development**: Laravel, PHP,
-- ⚙️ **API Development**: RESTful APIs, 
 -💽 **Database Management**: MySQL, Postgres, MongoDB
+-⚙️ **API Development**: RESTful APIs, 
 
 
   
