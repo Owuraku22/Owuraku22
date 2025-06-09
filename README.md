@@ -27,7 +27,6 @@
 
 #### Languages
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
